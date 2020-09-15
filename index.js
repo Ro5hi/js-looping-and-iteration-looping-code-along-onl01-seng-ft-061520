@@ -1,4 +1,4 @@
 function writeCards ( namesArray, event ) {
   let thankYouCards = [] 
-  for 
+  for ( let i = 0 )
 }
