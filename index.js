@@ -11,5 +11,5 @@ function countDown ( startingNumber) {
     console.log(startNumber); 
     startingNumber -= 1;
   }
-  console.log
+  console.log (startingNumber)
 }
