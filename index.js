@@ -6,3 +6,5 @@ function wrapGifts(gifts) {
   
   return gifts;
 }
+
+function writeCards()
