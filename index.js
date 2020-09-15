@@ -7,4 +7,3 @@ function wrapGifts(gifts) {
   return gifts;
 }
 
-function writeCards( namesArray, event)
